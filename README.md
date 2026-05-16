@@ -1,2 +1,2 @@
-# Travel-Tourism-Hospitality---Customer-Retention-and-Dynamic-Pricing-Analysis
-The objective of this project is to analyze historical booking datasets to uncover the primary drivers of customer cancellations (churn) and to explore seasonal demand trends. 
+# Healthcare & Medical - Chronic Disease Prediction and EHR Analysis
+The global healthcare sector generates massive amounts of data through Electronic Health Records (EHR), yet much of this data remains underutilized for proactive patient care. Hospitals struggle to identify at-risk patients early, leading to higher treatment costs and worse patient outcomes. Furthermore, analyzing sensitive medical data requires strict adherence to ethical guidelines and privacy standards (like HIPAA) to ensure patient confidentiality. This project demands the end-to-end data analysis of an anonymized Electronic Health Records dataset to predict the likelihood of Chronic Kidney Disease (CKD) or heart disease.
